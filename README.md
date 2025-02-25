@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h4>Unstable Diffusion</h4>
+<p>🌱 I’m currently learning Generative AI specifically working on Stable Diffusion models. </p>
 
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
