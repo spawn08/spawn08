@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![ReactJS](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Tensorflow](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
+![PyTorch](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a)
 ![Keras](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=2bbc8a)
