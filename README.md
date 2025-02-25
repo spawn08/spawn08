@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 ## 💻 Programming Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+## ⚡ Notable Projects
+![Kolors SDXL](https://github.com/spawn08/kolors-sdxl)
+![SpawN Wiki](https://github.com/spawn08/spawnwiki)
+![Text Classification](https://github.com/spawn08/SpawN-ML-Bot-Backend)
+
