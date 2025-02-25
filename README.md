@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4>Unstable Diffusion</h4>
+
+## ⚡ Technologies
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+![ReactJS](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+![Tensorflow](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
+![Keras](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=2bbc8a)
+
+## &#11088; GitHub Stats
+
+![Amarsingh's github stats](https://github-readme-stats.vercel.app/api?username=spawn08&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
+
+## 💻 Do we speak the same language ?
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=spawn08" alt="visitor badge" width="100px"/>
