@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4>Unstable Diffusion</h4>
 <p>🌱 I’m currently learning Generative AI specifically working on Stable Diffusion models. </p>
 
-## ⚡ Languages & Technologies
+## ⚡ Technologies & Frameworks
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a)
 ![Keras](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=white&color=2bbc8a)
 ![Transformers](https://img.shields.io/badge/Tools-Transformers-informational?style=flat-square&logo=transformers&logoColor=white&color=2bbc8a)
+![Diffusers](https://img.shields.io/badge/Tools-Diffusers-informational?style=flat-square&logo=diffusers&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=2bbc8a)
 
