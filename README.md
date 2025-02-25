@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 ![Amarsingh's github stats](https://github-readme-stats.vercel.app/api?username=spawn08&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
 
-## 💻 Do we speak the same language ?
+## 💻 Programming Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=spawn08" alt="visitor badge" width="100px"/>
