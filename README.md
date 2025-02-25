@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4>Unstable Diffusion</h4>
 
 ## ⚡ Technologies
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
