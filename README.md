@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ## &#11088; GitHub Stats
 
-![Amarsingh's github stats](https://github-readme-stats.vercel.app/api?username=spawn08&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
+![Amarsingh's github stats](https://github-readme-stats-pink-eta-44.vercel.app/api?username=spawn08&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
 
 ## 💻 Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img src="https://github-readme-stats-pink-eta-44.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## ⚡ Notable Projects
 ![Kolors SDXL](https://github.com/spawn08/kolors-sdxl)
