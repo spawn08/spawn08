@@ -1,52 +1,178 @@
-## Hi there 👋
+# 👋 Hey, I'm SpawN
 
-<!--
-**spawn08/spawn08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building systems where AI doesn't just generate — it **thinks, executes, and ships.**
 
-Here are some ideas to get you started:
+I'm a software engineer exploring the intersection of **AI Agents, Developer Infrastructure, Distributed Systems, and Generative AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **autonomous software engineering systems** — agents that can plan, write code, run experiments, verify results, learn from execution, and keep working on long-running tasks.
 
-<h4>Unstable Diffusion</h4>
-<p>🌱 I’m currently learning Generative AI specifically working on Stable Diffusion models. </p>
+---
 
-## ⚡ Technologies & Frameworks
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
-![ReactJS](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![Sprint Boot](https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat-square&logo=Spring&logoColor=white&color=2bbc8a)
-![Quarkus](https://img.shields.io/badge/Tools-Quarkus-informational?style=flat-square&logo=quarkus&logoColor=white&color=2bbc8a)
-![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
-![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=2bbc8a)
-![Redis](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=2bbc8a)
-![Tensorflow](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
-![PyTorch](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a)
-![Keras](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=white&color=2bbc8a)
-![Transformers](https://img.shields.io/badge/Tools-Transformers-informational?style=flat-square&logo=transformers&logoColor=white&color=2bbc8a)
-![Diffusers](https://img.shields.io/badge/Tools-Diffusers-informational?style=flat-square&logo=diffusers&logoColor=white&color=2bbc8a)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
-![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=2bbc8a)
+## 🧠 What I'm Building
 
-## &#11088; GitHub Stats
+```text
+                    AUTONOMOUS SOFTWARE ENGINEERING
 
-![Amarsingh's github stats](https://github-stats-extended.vercel.app/api??username=spawn08&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
+      ┌──────────┐     ┌──────────┐     ┌──────────┐
+      │  PLAN    │ ──▶ │  EXECUTE │ ──▶ │  VERIFY  │
+      └──────────┘     └──────────┘     └──────────┘
+            ▲                                  │
+            │                                  ▼
+      ┌──────────┐     ┌──────────┐     ┌──────────┐
+      │  MEMORY  │ ◀── │  LEARN   │ ◀── │  EVALUATE│
+      └──────────┘     └──────────┘     └──────────┘
+```
 
-## 💻 Programming Languages
+My current interests:
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=spawn08&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+**AI Agents** · **Coding Agents** · **Agent Harnesses** · **Long-Horizon Tasks**  
+**Context Engineering** · **Agent Memory** · **Multi-Agent Systems**  
+**Durable Execution** · **AI Infrastructure** · **GPU / Inference Optimization**
 
-## ⚡ Notable Projects
-![Kolors SDXL](https://github.com/spawn08/kolors-sdxl)
-![SpawN Wiki](https://github.com/spawn08/spawnwiki)
-![Text Classification](https://github.com/spawn08/SpawN-ML-Bot-Backend)
+---
 
+## ⚡ Currently Building
+
+### [Chronos](https://github.com/spawn08/chronos)
+
+> **A durable runtime for long-running AI agents.**
+
+Exploring what happens when an AI agent is treated less like a chatbot and more like a **persistent software process**.
+
+`Planning` · `Memory` · `Subagents` · `Durable Execution` · `Sandboxing` · `MCP` · `A2A` · `Evals`
+
+**The bigger idea:**
+
+> Give agents the infrastructure required to work autonomously for hours, days, or longer — without losing state, context, or control.
+
+---
+
+## 🔬 Things I'm Curious About
+
+- Can coding agents reliably handle **100+ step software engineering tasks**?
+- What does the **OS for autonomous agents** look like?
+- How should agents manage context across millions of tokens?
+- Can agents learn reusable engineering knowledge from previous executions?
+- What is the right architecture for **persistent agent memory**?
+- How do we evaluate agents on **real software outcomes**, rather than benchmark scores?
+- Can autonomous software delivery become a production system rather than a developer experiment?
+
+---
+
+## 🛠️ My Stack
+
+### AI / ML
+
+`LLMs` `PyTorch` `Transformers` `Diffusers` `RAG` `Vision` `Multimodal AI`
+
+### Agent Systems
+
+`Agent Runtimes` `MCP` `A2A` `Multi-Agent Systems` `Memory` `Evals` `Sandboxing`
+
+### Backend
+
+`Java` `Python` `Go` `C++` `Quarkus` `Spring Boot` `FastAPI`
+
+### Infrastructure
+
+`Kubernetes` `Docker` `Kafka` `Redis` `PostgreSQL` `ClickHouse` `Terraform` `Azure`
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Chronos
+
+Durable execution infrastructure for AI agents.
+
+**Agents · Memory · Planning · Subagents · MCP · A2A**
+
+</td>
+
+<td width="50%">
+
+### 🎨 Kolors SDXL
+
+Experiments around generative image models and diffusion pipelines.
+
+**SDXL · PyTorch · Diffusers**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Agentic AI Interview Kit
+
+Exploring architectures and engineering patterns for agentic systems.
+
+**Agents · LLMs · System Design**
+
+</td>
+
+<td width="50%">
+
+### 🏗️ System Design
+
+Large-scale distributed systems and AI architecture explorations.
+
+**Distributed Systems · Architecture · GenAI**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spawn08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧭 Currently Exploring
+
+```text
+AI Agents
+    ├── Long-Horizon Execution
+    ├── Context Engineering
+    ├── Persistent Memory
+    ├── Multi-Agent Collaboration
+    └── Agent Evaluation
+
+AI Infrastructure
+    ├── Durable Execution
+    ├── Model Serving
+    ├── Inference Optimization
+    ├── GPU Computing
+    └── Distributed Systems
+
+Autonomous Software Engineering
+    ├── Coding Agents
+    ├── Code Intelligence
+    ├── Code Graphs
+    ├── Agent Harnesses
+    └── Autonomous Delivery
+```
+
+---
+
+### 💭 One thing I'm trying to figure out
+
+> **What happens when software engineers stop writing every step — and start designing systems that can figure out the steps themselves?**
+
+---
+
+<p align="center">
+
+**Build → Break → Learn → Repeat**
+
+</p>
