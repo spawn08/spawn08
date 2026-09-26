@@ -133,7 +133,7 @@ Large-scale distributed systems and AI architecture explorations.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spawn08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spawn08&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spawn08&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
