@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SpawN
+# 👋 Hey, I'm Amarsingh
 
 ### Building systems where AI doesn't just generate — it **thinks, executes, and ships.**
 
